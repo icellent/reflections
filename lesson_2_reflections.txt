@@ -1,2 +1,7 @@
 ## What happens when you initialize a repository? Why do you need to do it?
 It will create a file call .git and reveal some git branch things.
+## How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+staging area means a temp area, it seems more like some sequence of state.
+It offers a space to store data. you can reverse the data or you can save the data.
