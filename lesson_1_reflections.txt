@@ -1,0 +1,22 @@
+The reflections.
+That's great to keep all the code I had been written.
+## Manual Commits
+The pros is:
+You can work at your own pace. and you can get fully control of your commits
+The cons is:
+Sometime, you may forget to commit some change
+## Multi-File Commits:
+Git is best for code ,coz code files always have relations
+Google and etc. good for file storage. coz it doesn't care about the file relations.
+
+## Using Git to View History
+first use git log to list all of the history
+second use git diff to compare the differences of the commits
+
+
+## Confidence from Version Control
+
+It's just great. You can revert to any state of you code and without loosing the current
+
+## How do you want to use git?
+integrate to my code process.
