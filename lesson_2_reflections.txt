@@ -14,3 +14,10 @@ If I want to try something new. or collaborate with someone. That would be helpf
 
 ## How do the diagrams help you visualize the branch structure?
 It give me the overview of all the commit and show branch graph to help identify the workflow
+
+## What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Transport one branch functionality to another branch. maybe just for clarify.
+
+## What are the pros and cons of Git's automatic merging vs always doing merges manually?
+If there is no conflict at merging, then automatic would be great.
+If there are some conflicts need to solve,the manually merges is the right one.
