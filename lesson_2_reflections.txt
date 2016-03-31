@@ -11,3 +11,6 @@ diff staging area and working directory to check the logical change
 
 ## What are some situations when branches would be helpful in keeping your history organized?
 If I want to try something new. or collaborate with someone. That would be helpful to have separate branch for each other. Than merge together as needed.
+
+## How do the diagrams help you visualize the branch structure?
+It give me the overview of all the commit and show branch graph to help identify the workflow
