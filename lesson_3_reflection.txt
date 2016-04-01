@@ -8,7 +8,7 @@ Because the repository is public. I might want to keep something private
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
+All branches are sitting in one repository. Fork and Clone copy another repository to local and github. The difference between forks and clones is forks copy repository to github account and can only do it on github. clone is copy the repository to local
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
